@@ -1,2 +1,2 @@
 # gitgoing
-Demonstration of git techniques in real projects now
+Demonstration of git techniques in real projects for continuous integrations
